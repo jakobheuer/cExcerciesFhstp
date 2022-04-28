@@ -47,3 +47,34 @@ Baum ausgeben, dieser Wächst nach vom User eingegebenen Werten.
 #### Benutzte Methoden
 * for schleifen in for schleifen
 
+## Übung 3 - Römische Zahlen, Bewegung in 2D Raum, Digital River
+### Aufgabe 1
+#### Funktion
+Zahlen zu Römischen Zahlen konvertieren.
+#### Benutzte Methoden
+* Modulo
+### Aufgabe 2
+#### Funktion
+Kürzester Weg von A nach B in 2D Koordinatensystem finden
+#### Benutzte Methoden
+* if/else
+### Aufgabe 3
+#### Funktion
+Digital River berechnen
+#### Benutzte Methoden
+* .h Files
+* for
+### Aufgabe 4
+#### Funktion
+Digital River die sich treffen berechnen
+#### Benutzte Methoden
+* .h Files
+* for
+* Bruteoforce
+### Aufgabe 5
+#### Funktion
+Alle Bytegrößen von Variablen ausgeben. Abhängig von 32/64 Bit und OS.
+#### Benutzte Methoden
+* Makefile Compiles in 32 / 64 Bit
+* typecast
+* sizeof
