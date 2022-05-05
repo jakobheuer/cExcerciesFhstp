@@ -47,10 +47,39 @@ typecast calloc, einfach verkettete Liste
 .h, binary search tree, 
 
 11.1-3:
-Bitmanipulationen
+Bitmanipulationen, fseek
 
 12.1:
 Unix file perms
 
 13.1:
 Bitmanipulation
+
+
+Notes:
+fopen:
+  fp = fopen ("file.txt", "w+"); //r 
+  r: read from existing file
+  w: creates empty file for write, overwrites files
+  a: append, file created if not exist
+  r+: opens file for read+write, must exist
+  w+: creates empty file for read and write
+  a+: opens file for reading and appending
+fgets:
+  char line[60]
+  if( fgets (line, 60, fp)!=NULL )
+fprintf
+  fprintf(fp, "%s %s %s %d", "We", "are", "in", 2012);
+fputs
+  fputs("This is c programming.", fp);
+puts
+  puts(str);
+malloc
+  ptr = (int*) malloc(100 * sizeof(int));
+calloc //Initializes with 0
+  ptr = (float*) calloc(25, sizeof(float));
+realloc
+  ptr = realloc(ptr, n * sizeof(int));
+fseek
+  fseek( fp, 7, SEEK_SET ); //SEEK_SET, SEEK_CUR, SEEK_END
+  
