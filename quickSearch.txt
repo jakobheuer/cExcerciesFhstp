@@ -38,7 +38,7 @@ struct, 2D array, roboter hindernisse ausweichen
 Game, structs, return struct, array in funktion bearbeiten und ohne return speichern, pointer, switch case
 
 8.1:
-Kerzen, char to short, array in funktion bearbeiten und speichern, 
+Kerzen, char to short, array in funktion bearbeiten und speichern, typedef struct
 
 9.1:
 typecast calloc, einfach verkettete Liste
@@ -51,6 +51,8 @@ Bitmanipulationen, fseek
 
 12.1:
 Unix file perms
+12.2:
+typedef struct
 
 13.1:
 Bitmanipulation
