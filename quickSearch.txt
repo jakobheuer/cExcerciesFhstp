@@ -30,6 +30,8 @@ calloc, realloc, free, scanf überprüfen, strcmp, fgets, array Pointer
 
 5.2:
 qsort, sort ascending, sort descending
+PoP 5:
+Pointer on 2D array, realloc/malloc both Dimensions
 
 6.1:
 struct, 2D array, roboter hindernisse ausweichen
