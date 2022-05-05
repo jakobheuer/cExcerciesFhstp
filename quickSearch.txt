@@ -1,1 +1,56 @@
+1.1:
+Zahlen aufteilen mit Modulo,
+1.2:
+Switch case
+1.3:
+abs(absolute value), sqrt
 
+2.1:
+const 2D array, modulo
+2.2:
+typedef struct, bool, ternary, scanf
+2.3:
+2D array
+2.4:
+for in for
+
+3.3:
+h. files
+3.5:
+32/64 Bit compile
+typecast
+sizeof
+
+4.1:
+fgets, check for "quit" string
+4.2:
+fgets, "quit" string, tolower, find string in string, char array Pointer
+4.3:
+calloc, realloc, free, scanf überprüfen, strcmp, fgets, array Pointer
+
+5.2:
+qsort, sort ascending, sort descending
+
+6.1:
+struct, 2D array, roboter hindernisse ausweichen
+
+7.1:
+Game, structs, return struct, array in funktion bearbeiten und ohne return speichern, pointer, switch case
+
+8.1:
+Kerzen, char to short, array in funktion bearbeiten und speichern, 
+
+9.1:
+typecast calloc, einfach verkettete Liste
+
+10.1:
+.h, binary search tree, 
+
+11.1-3:
+Bitmanipulationen
+
+12.1:
+Unix file perms
+
+13.1:
+Bitmanipulation
